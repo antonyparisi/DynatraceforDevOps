@@ -191,7 +191,7 @@ In your Azure Devops organization you can use these tasks to govern the deployme
 
 your deployment may be conditioned by the presence or absence of problems in what already exists, so the first step is to recover the problems of the application in the current version and, based on the result, behave accordingly.
 
-![](images\screenshots\getProblems.jpg)
+![](images/screenshots/getProblems.jpg)
 
 as a positive result of the previous step, as a pre-step in the application deployment, we create the necessary resources for monitoring on dynatrace:
 
@@ -201,11 +201,11 @@ Anomaly Detection (metrics): setting rules for application monitoring
 
 after successful deployment, we create an event that will correspond to the deployment of a new version of the application.
 
-![](images\screenshots\elenco_tasks.jpg)
+![](images/screenshots/elenco_tasks.jpg)
 
 downstream of the deployment stage, we can foresee a testing stage of the application with a subsequent task for checking the presence of problems on dynatrace.
 
-![](images\screenshots\getProblems_test.jpg)
+![](images/screenshots/getProblems_test.jpg)
 
 ## Conclusion
 
