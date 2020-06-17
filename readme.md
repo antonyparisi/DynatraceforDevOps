@@ -4,7 +4,7 @@
 
 **The Extension has been developed in collaboration with Dynatrace Team**
 
-![](images/Almaviva.jpg) 
+![](images/AlmavivA.jpg) 
 
 powered by AlmaToolBox(r), the Almaviva brand dedicated to devops.
 
